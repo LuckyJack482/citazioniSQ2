@@ -1,17 +1,17 @@
 # Citazioni
 
-"Molli e impuri"
+## "Molli e impuri"
 
-"Non è covid, è toscano"
+## "Non è covid, è toscano"
 
-"Nella vita non avrete soluzioni"
+## "Nella vita non avrete soluzioni"
 
-"Voi che siete a casa in kimono a sorseggiare tè con un narghilè"
+## "Voi che siete a casa in kimono a sorseggiare tè con un narghilè"
 
-"L'importante per me non è partecipare ma vincere, a mani basse"
+## "L'importante per me non è partecipare ma vincere, a mani basse"
 
-"Le coniche degeneri, che sono andate a puttane, e probabilmente hanno fatto bene"
+## "Le coniche degeneri, che sono andate a puttane, e probabilmente hanno fatto bene"
 
-"Andiamo in pausa? In andropausa"
+## "Andiamo in pausa? In andropausa"
 
-"Il capo non è buono, è una pasta"
+## "Il capo non è buono, è una pasta"
