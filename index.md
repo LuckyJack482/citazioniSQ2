@@ -4,7 +4,7 @@
 
 ### "Non è covid, è toscano"
 
-### "Nella vita non avrete soluzioni"
+### "Nella vita non avrete soluzioni" -Miele
 
 ### "Voi che siete a casa in kimono a sorseggiare tè con un narghilè"
 
@@ -15,3 +15,5 @@
 ### "Andiamo in pausa? In andropausa"
 
 ### "Il capo non è buono, è una pasta"
+
+### "È così che hanno costruito le piramidi, checché la televisione ne dica" -Morandi
